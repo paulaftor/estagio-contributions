@@ -767,7 +767,7 @@ public class Cqynve {
         System.out.println("yuwml");
         System.out.println("ptirq");
         System.out.println("xqeer");
-        System.out.println("hlija");
-        System.out.println("jcvmp");
+        System.out.println("ururm");
+        System.out.println("yseuh");
     }
 }
