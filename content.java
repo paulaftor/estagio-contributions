@@ -763,11 +763,14 @@ public class Cqynve {
         System.out.println("luaup");
         System.out.println("atxjk");
         System.out.println("eeiir");
-        System.out.println("dkapv");
-        System.out.println("yuwml");
-        System.out.println("ptirq");
-        System.out.println("xqeer");
-        System.out.println("ururm");
-        System.out.println("yseuh");
+        System.out.println("xkkty");
+        System.out.println("qcbra");
+        System.out.println("ihshn");
+        System.out.println("ibxqg");
+        System.out.println("arkpx");
+        System.out.println("vysxx");
+        System.out.println("adlir");
+        System.out.println("xlwoa");
+        System.out.println("dufbw");
     }
 }
