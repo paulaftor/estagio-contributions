@@ -808,9 +808,13 @@ public class Cqynve {
         System.out.println("oogvu");
         System.out.println("qswug");
         System.out.println("vrtqr");
-        System.out.println("nevqg");
-        System.out.println("uimyr");
-        System.out.println("yotbw");
-        System.out.println("oltic");
+        System.out.println("vrxpk");
+        System.out.println("iidhf");
+        System.out.println("iildr");
+        System.out.println("dqmsf");
+        System.out.println("fardv");
+        System.out.println("gokru");
+        System.out.println("hxtag");
+        System.out.println("cqven");
     }
 }
