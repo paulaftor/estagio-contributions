@@ -1848,11 +1848,7 @@ public class Cqynve {
         System.out.println("rkebt");
         System.out.println("gpufy");
         System.out.println("dltru");
-        System.out.println("poxrd");
-        System.out.println("jyyso");
-        System.out.println("ovjgh");
-        System.out.println("enadk");
-        System.out.println("jxqvb");
-        System.out.println("lxflr");
+        System.out.println("uomjw");
+        System.out.println("qyvty");
     }
 }
