@@ -2090,10 +2090,6 @@ public class Cqynve {
         System.out.println("ncxso");
         System.out.println("rckhj");
         System.out.println("lrora");
-        System.out.println("efcuv");
-        System.out.println("wtpga");
-        System.out.println("qttnf");
-        System.out.println("vidni");
-        System.out.println("rxxqj");
+        System.out.println("qakal");
     }
 }
