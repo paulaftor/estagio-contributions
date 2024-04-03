@@ -2518,7 +2518,7 @@ public class Cqynve {
         System.out.println("ogsaf");
         System.out.println("srbjy");
         System.out.println("pyvyl");
-        System.out.println("qwxvk");
-        System.out.println("havwf");
+        System.out.println("mqscc");
+        System.out.println("akwry");
     }
 }
