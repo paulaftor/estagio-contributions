@@ -2589,7 +2589,7 @@ public class Cqynve {
         System.out.println("qbtjr");
         System.out.println("fucrk");
         System.out.println("cbydh");
-        System.out.println("aswal");
-        System.out.println("tgpbx");
+        System.out.println("ikahn");
+        System.out.println("dqaly");
     }
 }
